@@ -77,7 +77,7 @@ export default function Home() {
                   </div>
                   <div
                     className="h-auto overflow-hidden transition-all duration-500 ease-in-out"
-                    style1={"max-height: 0px"}
+                    style={{ "max-height": "0px" }}
                   >
                     <ul className="pt-2 pl-6 pb-3">
                       <li className="mb-1 last:mb-0">
@@ -87,7 +87,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -116,7 +119,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -145,7 +151,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -174,7 +183,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -203,7 +215,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -266,7 +281,7 @@ export default function Home() {
                   </div>
                   <div
                     className="h-auto overflow-hidden transition-all duration-500 ease-in-out"
-                    style1={"max-height: 500px"}
+                    style={{ "max-height": "500px" }}
                   >
                     <ul className="pt-2 pl-6 pb-3">
                       <li className="mb-1 last:mb-0">
@@ -276,7 +291,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -305,7 +323,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -334,7 +355,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -363,7 +387,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -392,7 +419,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -421,7 +451,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -468,7 +501,7 @@ export default function Home() {
                   </div>
                   <div
                     className="h-auto overflow-hidden transition-all duration-500 ease-in-out"
-                    style1={"max-height: 0px"}
+                    style={{ "max-height": "0px" }}
                   >
                     <ul className="pt-2 pl-6 pb-3">
                       <li className="mb-1 last:mb-0">
@@ -478,7 +511,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -507,7 +543,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -536,7 +575,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -587,7 +629,7 @@ export default function Home() {
                   </div>
                   <div
                     className="h-auto overflow-hidden transition-all duration-500 ease-in-out"
-                    style1={"max-height: 0px"}
+                    style={{ "max-height": "0px" }}
                   >
                     <ul className="pt-2 pl-6 pb-3">
                       <li className="mb-1 last:mb-0">
@@ -597,7 +639,10 @@ export default function Home() {
                         >
                           <span
                             className="w-2 absolute group-hover:opacity-100 transition-opacity duration-250 opacity-0"
-                            style1={"left: -32px; top: calc(50% - 16px / 2)"}
+                            style={{
+                              left: "-32px",
+                              top: "calc(50% - 16px / 2)",
+                            }}
                           >
                             <svg
                               width="16"
@@ -655,7 +700,7 @@ export default function Home() {
                       viewBox="0 0 16 16"
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
-                      style1={"margin-top: 1px"}
+                      style={{ "margin-top": "1px" }}
                     >
                       <path
                         fill-rule="evenodd"
@@ -673,7 +718,7 @@ export default function Home() {
               <div className="BodyContent_inputWrapper__WPJDv mr-2">
                 <div
                   className="bg-white dark:bg-gray-900 flex items-center py-1 px-2 text-gray-700 dark:text-gray-300 border border-gray-300 rounded-1 dark:border-gray-600"
-                  style1={"width: 100%"}
+                  style={{ width: "100%" }}
                 >
                   <span className="mr-1">
                     <svg
@@ -681,7 +726,7 @@ export default function Home() {
                       height="24"
                       viewBox="0 0 24 24"
                       className="fill-current"
-                      style1={"color: inherit"}
+                      style={{ color: "inherit" }}
                     >
                       <path
                         fill-rule="evenodd"
@@ -703,13 +748,13 @@ export default function Home() {
                 <a
                   href="https://dashboard.scale.com/signup"
                   className="bg-black dark:bg-pink font-medium tracking-03 text-white px-2 leading-4 inline-block rounded-3 whitespace-nowrap uppercase mr-3 last:mr-0"
-                  style1={"font-size: 13px"}
+                  style={{ "font-size": "13px" }}
                 >
                   Create an Account
                 </a>
                 <a
                   className="bg-gray-300 dark:bg-white font-medium tracking-03 text-black px-2 leading-4 inline-block rounded-3 whitespace-nowrap uppercase mr-3 last:mr-0"
-                  style1={"font-size: 13px"}
+                  style={{ "font-size": "13px" }}
                   href="/sales"
                 >
                   Talk to Us
