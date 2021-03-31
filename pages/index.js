@@ -1,5 +1,5 @@
 import Left from "../components/left";
-import Main from "../components/main";
+import Main from "../components/main/main";
 
 export default function Home() {
   return (

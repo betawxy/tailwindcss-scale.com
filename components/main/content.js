@@ -1,5 +1,5 @@
-import Cal from "./icons/cal";
-import ContentImage from "./contentImage";
+import Cal from "../icons/cal";
+import ContentImage from "./image";
 
 export default function () {
   return (

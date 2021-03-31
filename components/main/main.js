@@ -1,5 +1,5 @@
-import MainHeader from "./mainHeader";
-import MainContent from "./mainContent";
+import MainHeader from "./header";
+import MainContent from "./content";
 
 export default function () {
   return (
