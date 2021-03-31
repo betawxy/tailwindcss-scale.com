@@ -1,6 +1,6 @@
-import Logo from "./icons/logo";
-import Home from "./icons/home";
-import Flag from "./icons/flag";
+import Logo from "../icons/logo";
+import Home from "../icons/home";
+import Flag from "../icons/flag";
 
 export default function Left() {
   return (

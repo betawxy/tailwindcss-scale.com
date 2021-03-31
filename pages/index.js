@@ -1,4 +1,4 @@
-import Left from "../components/left";
+import Left from "../components/left/left";
 import Main from "../components/main/main";
 
 export default function Home() {

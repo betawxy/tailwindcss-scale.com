@@ -3,7 +3,7 @@ import ContentImage from "./image";
 
 export default function () {
   return (
-    <div className="Main_content__1OWyo pt-4">
+    <div className="pt-4">
       <div className="font-maax text-4xl text-black dark:text-white pb-4 mb-4 border-b border-gray-300 dark:border-gray-800">
         Manage your Projects
       </div>

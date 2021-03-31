@@ -1,11 +1,8 @@
 export default function ({ url }) {
   return (
-    <div className="magic-block-image">
+    <div className="">
       <figure>
-        <a
-          href={url}
-          className="block-display-image-parent block-display-image-size-smart"
-        >
+        <a href={url} className="">
           <img src={url} />
         </a>
       </figure>
