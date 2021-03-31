@@ -4,8 +4,8 @@ import Flag from "./icons/flag";
 
 export default function Left() {
   return (
-    <div className="bg-white lg:bg-gray-100 dark:bg-transparent lg:dark:bg-black px-2 lg:px-0 -mx-2 lg:mx-0 w-1/4">
-      <header className="h-20 flex items-center justify-between lg:justify-start border-b border-gray-200 dark:border-gray-800">
+    <div className="bg-white lg:bg-gray-100 dark:bg-transparent lg:dark:bg-black px-2 lg:px-0 -mx-2 lg:mx-0">
+      <header className="h-10 flex items-center justify-between lg:justify-start border-b border-gray-200 dark:border-gray-800">
         <a href="/">
           <Logo />
         </a>

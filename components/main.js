@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div className="BodyContent_bodyContent__1sPhX bg-white dark:bg-gray-900 w-3/4">
-      <header className=" lg:flex h-20 pl-8 flex items-center justify-between border-b border-gray-200 dark:border-gray-800 relative">
+    <div className="BodyContent_bodyContent__1sPhX bg-white dark:bg-gray-900">
+      <header className="lg:flex h-10 pl-8 flex items-center justify-between border-b border-gray-200 dark:border-gray-800 relative">
         <div className="BodyContent_inputWrapper__WPJDv mr-2">
           <div
             className="bg-white dark:bg-gray-900 flex items-center py-1 px-2 text-gray-700 dark:text-gray-300 border border-gray-300 rounded-1 dark:border-gray-600"
